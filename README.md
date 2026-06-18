@@ -6,7 +6,8 @@ Yisong Miao, Jian Zhu, Vered Shwartz
 
 arXiv: [https://arxiv.org/abs/2606.17688](https://arxiv.org/abs/2606.17688)
 
-We are still preparing our codebase. Our full dataset is available at HuggingFace: [https://huggingface.co/datasets/yisongmiao/CAPRI](https://huggingface.co/datasets/yisongmiao/CAPRI)
+We are still preparing our codebase. \
+🤗 Hugging Face: Our dataset is fully available at [https://huggingface.co/datasets/yisongmiao/CAPRI](https://huggingface.co/datasets/yisongmiao/CAPRI)
 
 ## Citations 📜📝
 
